@@ -668,7 +668,13 @@
 		counter();
 		counterWayPoint();
 
+		$('#map_to').on('click', function(e){
+			$("html, body").animate({ scrollTop: $(document).height() }, 1000);
+		});
+
 	});
+
+
 
 
 }());
