@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f11e6da-3489-4673-aaf4-ae267def35ea" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project-11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project-12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/project-9.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -49,8 +37,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.32097">
-              <caret line="367" column="52" selection-start-line="367" selection-start-column="52" selection-end-line="367" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.37945792">
+              <caret line="294" column="98" selection-start-line="294" selection-start-column="98" selection-end-line="294" selection-end-column="98" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -335,8 +323,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.32097">
-          <caret line="367" column="52" selection-start-line="367" selection-start-column="52" selection-end-line="367" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.37945792">
+          <caret line="294" column="98" selection-start-line="294" selection-start-column="98" selection-end-line="294" selection-end-column="98" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
